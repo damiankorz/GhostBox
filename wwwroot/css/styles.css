@@ -1,0 +1,85 @@
+body, html {
+    height: 100%;
+}
+
+body {
+    background-color: black;
+}
+
+h2 {
+    font-size: 1.5em;
+}
+
+h3 {
+    font-size: 1.25em;
+}
+
+.row-white {
+    background-color: white;
+}
+
+.row-padding {
+    padding-top: 40px;
+    padding-bottom: 50px;
+}
+
+.row-padding-top {
+    padding-top: 40px;
+}
+
+.row-padding-bottom {
+    padding-bottom: 50px;
+}
+
+.embed-responsive-16by9 {
+    padding-bottom: 50%;
+}
+
+.dropdown-menu {
+    background-color: #222;
+}
+
+.dropdown-menu > li > a {
+    color: #9d9d9d;
+}
+
+.carousel {
+    width: 75%;
+    margin: 0px auto;
+}
+
+ol {
+    font-size: 0pt;
+}
+
+.span-grey {
+    color: #777;
+}
+
+.modal-body > p {
+    color: black;
+}
+
+.col-margin-btm {
+    margin-bottom: 25px;
+}
+
+.btn-black {
+    background-color: black;
+    color: white;
+}
+
+.h1-header {
+    display: inline-block;
+    padding: 15px;
+    margin-bottom: 40px;
+    border: 5px solid black;
+}
+
+.h1-header-offset {
+    display: inline-block;
+    color: white;
+    padding: 15px;
+    margin-bottom: 40px;
+    border: 5px solid white;
+}
