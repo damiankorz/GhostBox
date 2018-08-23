@@ -64,9 +64,35 @@ ol {
     margin-bottom: 25px;
 }
 
+.col-title {
+    padding: 15px 0px;
+}
+
+.col-pad-top {
+    padding-top: 150px;
+}
+
+.col-pad-bottom {
+    padding-bottom: 150px;
+}
+
 .btn-black {
     background-color: black;
     color: white;
+    font-weight: bold;
+}
+
+.btn-white {
+    background-color: white;
+    color: black;
+    font-weight: bold;
+    margin-top: 25px;
+}
+
+.btn-imdb {
+    background-color: gold;
+    color: black;
+    font-weight: bold;
 }
 
 .h1-header {
@@ -82,4 +108,8 @@ ol {
     padding: 15px;
     margin-bottom: 40px;
     border: 5px solid white;
+}
+
+.fa-imdb {
+    color: #333;
 }
