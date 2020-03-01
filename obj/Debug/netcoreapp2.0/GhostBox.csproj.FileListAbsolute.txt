@@ -20,3 +20,16 @@
 /Users/damiank/Desktop/GhostBoxMovie/obj/Debug/netcoreapp2.0/GhostBox.AssemblyInfo.cs
 /Users/damiank/Desktop/GhostBoxMovie/obj/Debug/netcoreapp2.0/GhostBox.dll
 /Users/damiank/Desktop/GhostBoxMovie/obj/Debug/netcoreapp2.0/GhostBox.pdb
+/Users/Mike/Desktop/ghostboxwebsite/GhostBox/bin/Debug/netcoreapp2.0/appsettings.Development.json
+/Users/Mike/Desktop/ghostboxwebsite/GhostBox/bin/Debug/netcoreapp2.0/appsettings.json
+/Users/Mike/Desktop/ghostboxwebsite/GhostBox/bin/Debug/netcoreapp2.0/bundleconfig.json
+/Users/Mike/Desktop/ghostboxwebsite/GhostBox/bin/Debug/netcoreapp2.0/GhostBox.deps.json
+/Users/Mike/Desktop/ghostboxwebsite/GhostBox/bin/Debug/netcoreapp2.0/GhostBox.runtimeconfig.json
+/Users/Mike/Desktop/ghostboxwebsite/GhostBox/bin/Debug/netcoreapp2.0/GhostBox.runtimeconfig.dev.json
+/Users/Mike/Desktop/ghostboxwebsite/GhostBox/bin/Debug/netcoreapp2.0/GhostBox.dll
+/Users/Mike/Desktop/ghostboxwebsite/GhostBox/bin/Debug/netcoreapp2.0/GhostBox.pdb
+/Users/Mike/Desktop/ghostboxwebsite/GhostBox/obj/Debug/netcoreapp2.0/GhostBox.csprojAssemblyReference.cache
+/Users/Mike/Desktop/ghostboxwebsite/GhostBox/obj/Debug/netcoreapp2.0/GhostBox.AssemblyInfoInputs.cache
+/Users/Mike/Desktop/ghostboxwebsite/GhostBox/obj/Debug/netcoreapp2.0/GhostBox.AssemblyInfo.cs
+/Users/Mike/Desktop/ghostboxwebsite/GhostBox/obj/Debug/netcoreapp2.0/GhostBox.dll
+/Users/Mike/Desktop/ghostboxwebsite/GhostBox/obj/Debug/netcoreapp2.0/GhostBox.pdb
